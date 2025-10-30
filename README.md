@@ -1,1 +1,1 @@
-# Big-Sorting-algo
+# Big-Sorting-algo The program sorts very large numbers (stored as strings) by comparing their lengths first and then their digits lexicographically if they have the same length. This ensures correct ordering even when numbers are too big to fit in standard numeric types.
